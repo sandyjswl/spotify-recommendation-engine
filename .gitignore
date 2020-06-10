@@ -1,0 +1,4 @@
+constants.py
+.idea
+__pycache__/
+spotify_getter.py
